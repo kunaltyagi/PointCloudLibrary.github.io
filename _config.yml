@@ -1,0 +1,8 @@
+# Site settings
+title:       PCL
+subtitle:    Point Cloud library
+description: A open source library for 2D and 3D image and cloud processing
+baseurl:     "/"
+
+gems:
+  - jekyll-redirect-from
